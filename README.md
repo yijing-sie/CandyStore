@@ -20,7 +20,7 @@ In the top right corner of the screen, users can click ![image](https://user-ima
 2. **Update**: Users can update the price of an existing candy in the database
 3. **Delete**:  Users can delete an existing candy in the database
 
-Below is the demonstration for the three aforementioned features:
+Below is the demonstration for the three aforementioned features on the **Android Emulator**:
 
 
 https://user-images.githubusercontent.com/84282744/189670419-ec3d8c9f-0d44-4c0f-8f19-c8e99dde47bc.mp4
@@ -40,7 +40,7 @@ The rest of the features enables users to run the application as a cash register
 
 6. **Total Revenue**: Users can get the total revenue by using the `TotalRevenue` option in the top right corner of the screen ![image](https://user-images.githubusercontent.com/84282744/189675743-5567e4f2-d38b-4ad3-97fa-f24986d73c3e.png) 
 
-Below is the demonstration for the three aforementioned features:
+Below is the demonstration for the three aforementioned features on the **Android Emulator**:
 
 https://user-images.githubusercontent.com/84282744/189671587-1d524723-b1ed-4328-b90a-b315f425adda.mp4
 
