@@ -3,6 +3,8 @@
 This is an assignment for Software Design for Visual Environments 
 
 * The goal is to utilize **SQLite** to store data and manage **relational databases**, simulating a cash register in a candy store.
+* [candystorev5](java/com/jblearning/candystorev5) folder contains all my Java codes
+* [res](res) folder contains all the images and xml files for the UI of this application
 
 
 
