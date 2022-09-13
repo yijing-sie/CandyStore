@@ -4,7 +4,7 @@ This is an assignment for Software Design for Visual Environments
 
 * The goal is to utilize **SQLite** to store data and manage **relational databases**, simulating a cash register in a candy store.
 * [candystorev5](java/com/jblearning/candystorev5) folder contains all my Java codes
-* [res](res) folder contains the images and xml files for the UI of this application
+* [res](res) folder contains the images and XML files for the UI of this application
 * [DatabaseManager.java](java/com/jblearning/candystorev5/DatabaseManager.java) implements the `DatabaseManager` class to manage the **SQLiteDatabase** in **Android Studio**
 
 
@@ -20,7 +20,7 @@ In the top right corner of the screen, users can click ![image](https://user-ima
 2. **Update**: Users can update the price of an existing candy in the database
 3. **Delete**:  Users can delete an existing candy in the database
 
-Below is the demonstration for the three aforementioned features on the **Android Emulator**:
+Below is a demonstration of the three aforementioned features on the **Android Emulator**:
 
 
 https://user-images.githubusercontent.com/84282744/189670419-ec3d8c9f-0d44-4c0f-8f19-c8e99dde47bc.mp4
@@ -29,18 +29,18 @@ https://user-images.githubusercontent.com/84282744/189670419-ec3d8c9f-0d44-4c0f-
 
 ---
 
-By clicking the candy names on the screen, the application automatically accumuates the prices to compute the total amount of money due by a customer as a cash register. 
+By clicking the candy names on the screen, the application automatically accumulates  the prices to compute the total amount of money due by a customer as a cash register. 
 
 The rest of the features enables users to run the application as a cash register: 
 
 4. **Reset**: During the accumulation, users can click the dollar sign button ![image](https://user-images.githubusercontent.com/84282744/189680752-98ae091c-65b7-4cad-8bda-83234e02282a.png)
  in the top right corner of the screen to restart the accumulation if they clicked the wrong candy by accident
 
-5. **Check out**: Users can get the total charge for the current customer by clicking the check out button at the bottom of the screen and add it to the total revenue
+5. **Check out**: Users can get the total charge for the current customer by clicking the `check out` button at the bottom of the screen and adding it to the total revenue
 
 6. **Total Revenue**: Users can get the total revenue by using the `TotalRevenue` option in the top right corner of the screen ![image](https://user-images.githubusercontent.com/84282744/189675743-5567e4f2-d38b-4ad3-97fa-f24986d73c3e.png) 
 
-Below is the demonstration for the three aforementioned features on the **Android Emulator**:
+Below is a demonstration of the three aforementioned features on the **Android Emulator**:
 
 https://user-images.githubusercontent.com/84282744/189671587-1d524723-b1ed-4328-b90a-b315f425adda.mp4
 
